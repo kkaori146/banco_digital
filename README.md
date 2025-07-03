@@ -16,6 +16,13 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 </div><br>
 
+<p>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" style="margin-right: 30px;" />
+  <img src="https://spring.io/images/spring-logo-2020.svg" height="40" style="margin-right: 30px;" />
+  <img src="https://h2database.com/images/h2logo.png" height="40" style="margin-right: 30px;" />
+  <img src="https://seeklogo.com/images/P/postman-logo-2F6B63D7F6-seeklogo.com.png" height="40" />
+</p>
+
 
 <h2>Dependências do Spring Initializr</h2>
 <p>- Spring Data JDBC</p>
