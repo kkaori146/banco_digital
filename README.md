@@ -33,75 +33,75 @@
 <p>spring.h2.console.enabled=true</p>
 
 <h4>- Atualiza automaticamente o schema do banco conforme as entidades:</h4>
-<p>spring.jpa.hibernate.ddl-auto=update</p>
+<p>spring.jpa.hibernate.ddl-auto=update</p><br>
 
 <h2>Testes Realizados no Postman:</h2>
 <h4>- ADICIONAR CLIENTE:</h4>
-<p>➕POST: localhost:8080/cliente/add</p>
+<p>➕POST: localhost:8080/cliente/add</p><br>
 
 <h4>- LISTAR OS CLIENTES:</h4>
-<p>📥GET: localhost:8080/cliente/listAll</p>
+<p>📥GET: localhost:8080/cliente/listAll</p><br>
 
 <h4>- DELETAR CLIENTES:</h4>
-<p>❌DELETE: localhost:8080/cliente/delete/ID</p>
+<p>❌DELETE: localhost:8080/cliente/delete/ID</p><br>
 
 <h4>- ATUALIZAR OS DADOS DO CLIENTE:</h4>
-<p>♻️PUT: localhost:8080/cliente/update/ID</p>
+<p>♻️PUT: localhost:8080/cliente/update/ID</p><br>
 
 <h4>- ADICIONAR CONTA:</h4>
-<p>➕POST: localhost:8080/contas/add?clienteId=ID&numero=NUMERODACONTA</p>
+<p>➕POST: localhost:8080/contas/add?clienteId=ID&numero=NUMERODACONTA</p><br>
 
 <h4>- DETALHES DA CONTA:</h4>
-<p>📥GET: localhost:8080/contas/ID</p>
+<p>📥GET: localhost:8080/contas/ID</p><br>
 
 <h4>- TRANSFERÊNCIA DE VALORES:</h4>
-<p>➕POST: localhost:8080/contas/ID/transferencia?destinoId=ID&valor=VALOR</p>
+<p>➕POST: localhost:8080/contas/ID/transferencia?destinoId=ID&valor=VALOR</p><br>
 
 <h4>- DEPÓSITO:</h4>
-<p>➕POST: localhost:8080/contas/ID/deposito?valor=VALOR</p>
+<p>➕POST: localhost:8080/contas/ID/deposito?valor=VALOR</p><br>
 
 <h4>- CONSULTA DE SALDO:</h4>
-<p>📥GET: localhost:8080/contas/ID/saldo</p>
+<p>📥GET: localhost:8080/contas/ID/saldo</p><br>
 
 <h4>- PIX:</h4>
-<p>➕POST: localhost:8080/contas/ID/pix?destinoId=ID&valor=VALOR</p>
+<p>➕POST: localhost:8080/contas/ID/pix?destinoId=ID&valor=VALOR</p><br>
 
 <h4>- SAQUE:</h4>
-<p>➕POST: localhost:8080/contas/ID/saque?valor=VALOR</p>
+<p>➕POST: localhost:8080/contas/ID/saque?valor=VALOR</p><br>
 
 <h4>- TAXA DE MANUTENÇÃO:</h4>
-<p>♻️PUT: localhost:8080/contas/ID/manutencao?taxa=VALOR</p>
+<p>♻️PUT: localhost:8080/contas/ID/manutencao?taxa=VALOR</p><br>
 
 <h4>- APLICAÇÃO DE RENDIMENTOS:</h4>
-<p>♻️PUT: localhost:8080/contas/ID/rendimentos?percentual=VALOR</p>
+<p>♻️PUT: localhost:8080/contas/ID/rendimentos?percentual=VALOR</p><br>
 
 <h4>- EMISSÃO DE CARTÃO:</h4>
-<p>➕POST: localhost:8080/cartoes?clienteId=ID&tipo=DEBITO</p>
+<p>➕POST: localhost:8080/cartoes?clienteId=ID&tipo=DEBITO</p><br>
 
-<p>➕POST: localhost:8080/cartoes?clienteId=ID&tipo=CREDITO</p>
+<p>➕POST: localhost:8080/cartoes?clienteId=ID&tipo=CREDITO</p><br>
 
 <h4>- LISTA DETALHES DO CARTÃO:</h4>
-<p>📥GET: localhost:8080/cartoes/ID</p>
+<p>📥GET: localhost:8080/cartoes/ID</p><br>
 
 <h4>- PAGAMENTO DO CARTÃO:</h4>
-<p>➕POST: localhost:8080/cartoes/ID/pagamento?valor=VALOR&senha=SENHA</p>
+<p>➕POST: localhost:8080/cartoes/ID/pagamento?valor=VALOR&senha=SENHA</p><br>
 
 <h4>- ALTERAÇÃO DO LIMITE DO CARTÃO:</h4>
-<p>♻️PUT: localhost:8080/cartoes/ID/limite?novoLimite=VALOR</p>
+<p>♻️PUT: localhost:8080/cartoes/ID/limite?novoLimite=VALOR</p><br>
 
 <h4>- ATIVAR E DESATIVAR CARTÃO:</h4>
-<p>♻️PUT: localhost:8080/cartoes/ID/status?ativo=true</p>
+<p>♻️PUT: localhost:8080/cartoes/ID/status?ativo=true</p><br>
 
-<p>♻️PUT: localhost:8080/cartoes/ID/status?ativo=false</p>
+<p>♻️PUT: localhost:8080/cartoes/ID/status?ativo=false</p><br>
 
 <h4>- ALTERAR SENHA DO CARTÃO:</h4>
-<p>♻️PUT: localhost:8080/cartoes/ID/senha?novaSenha=SENHA</p>
+<p>♻️PUT: localhost:8080/cartoes/ID/senha?novaSenha=SENHA</p><br>
 
 <h4>- CONSULTAR FATURA:</h4>
-<p>📥GET: localhost:8080/cartoes/ID/senha?novaSenha=SENHA</p>
+<p>📥GET: localhost:8080/cartoes/ID/senha?novaSenha=SENHA</p><br>
 
 <h3>- PAGAMENTO DA FATURA DO CARTÃO:</h3>
-<p>➕POST: localhost:8080/cartoes/ID/fatura/pagamento?valor=VALOR</p>
+<p>➕POST: localhost:8080/cartoes/ID/fatura/pagamento?valor=VALOR</p><br>
 
 <h3>- ALTERAR O LIMITE DIÁRIO:</h3>
 <p>♻️PUT: localhost:8080/cartoes/ID/limite-diario?novoLimiteDiario=VALOR</p>
