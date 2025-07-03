@@ -14,10 +14,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <h3>H2 Database</h3>
+  <img src="https://raw.githubusercontent.com/h2database/h2database/master/h2.png" height="40" alt="H2 Database"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
-</div><br>
+</div>
 
 <h2>Dependências do Spring Initializr</h2>
 <p>- Spring Data JDBC</p>
