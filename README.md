@@ -2,8 +2,6 @@
 
 <p>Projeto desenvolvido no bootcamp da Educ360 de Java, utilizando spring boot.</p><br>
 
-
-
 <h2>Ferramentas Utilizadas</h2>
 <p>- Spring Initializr</p>
 <p>- H2 database</p>
@@ -17,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/h2database/h2database/master/h2.png" height="40" alt="H2 Database"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
-</div>
+</div><br>
 
 <h2>Dependências do Spring Initializr</h2>
 <p>- Spring Data JDBC</p>
