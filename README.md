@@ -10,9 +10,9 @@
 <p>- Postman</p><br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin-right: 15px;" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" style="margin-right: 15px;" alt="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/h2database/h2database/master/h2.png" height="40" style="margin-right: 15px;" alt="H2 Database"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin-right: 30px;" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" style="margin-right: 30px;" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/h2database/h2database/master/h2.png" height="40" style="margin-right: 30px;" alt="H2 Database"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 </div><br>
 
