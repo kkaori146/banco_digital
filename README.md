@@ -1,36 +1,36 @@
 <h1>Banco Digital</h1>
 
-<p>Projeto desenvolvido no bootcamp da Educ360 de Java, utilizando spring boot.</p>
+<p>Projeto desenvolvido no bootcamp da Educ360 de Java, utilizando spring boot.</p><br>
 
 <h2>Ferramentas Utilizadas</h2>
 <p>- Spring Initializr</p>
 <p>- H2 database</p>
-<p>- Postman</p>
+<p>- Postman</p><br>
 
 <h2>Dependências do Spring Initializr</h2>
 <p>- Spring Data JDBC</p>
 <p>- Spring Data JPA</p>
 <p>- Spring Web</p>
-<p>- H2 Database</p>
+<p>- H2 Database</p><br>
 
 <h2>Configuração do Arquivo application.properties</h2>
 <h4>- Nome da aplicação:</h4>
-<p>spring.application.name=INSERIR O NOME DO BANCO</p>
+<p>spring.application.name=INSERIR O NOME DO BANCO</p><br>
 
 <h4>- JDBC URL em modo servidor:</h4>
-<p>spring.datasource.url=INSERIR O JDBC URL</p>
+<p>spring.datasource.url=INSERIR O JDBC URL</p><br>
 
 <h4>- Usuário padrão do H2:</h4>
-<p>spring.datasource.username=sa</p>
+<p>spring.datasource.username=sa</p><br>
 
 <h4>- Senha padrão do H2:</h4>
-<p>spring.datasource.password=</p>
+<p>spring.datasource.password=</p><br>
 
 <h4>- Define o caminho para acesso via navegador:(ex. http://localhost:8080/h2-console)</h4>
-<p>spring.h2.console.path=/h2-console</p>
+<p>spring.h2.console.path=/h2-console</p><br>
 
 <h4>- Habilita o console H2:</h4>
-<p>spring.h2.console.enabled=true</p>
+<p>spring.h2.console.enabled=true</p><br>
 
 <h4>- Atualiza automaticamente o schema do banco conforme as entidades:</h4>
 <p>spring.jpa.hibernate.ddl-auto=update</p><br>
@@ -100,8 +100,8 @@
 <h4>- CONSULTAR FATURA:</h4>
 <p>📥GET: localhost:8080/cartoes/ID/senha?novaSenha=SENHA</p><br>
 
-<h3>- PAGAMENTO DA FATURA DO CARTÃO:</h3>
+<h4>- PAGAMENTO DA FATURA DO CARTÃO:</h4>
 <p>➕POST: localhost:8080/cartoes/ID/fatura/pagamento?valor=VALOR</p><br>
 
-<h3>- ALTERAR O LIMITE DIÁRIO:</h3>
+<h4>- ALTERAR O LIMITE DIÁRIO:</h4>
 <p>♻️PUT: localhost:8080/cartoes/ID/limite-diario?novoLimiteDiario=VALOR</p>
