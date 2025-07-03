@@ -16,13 +16,15 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 </div><br>
 
-<p>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" style="margin-right: 30px;" />
-  <img src="https://spring.io/images/spring-logo-2020.svg" height="40" style="margin-right: 30px;" />
-  <img src="https://h2database.com/images/h2logo.png" height="40" style="margin-right: 30px;" />
-  <img src="https://seeklogo.com/images/P/postman-logo-2F6B63D7F6-seeklogo.com.png" height="40" />
-</p>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/h2database/h2database/master/h2.png" height="40" alt="H2 Database"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
+</div>
 
 <h2>Dependências do Spring Initializr</h2>
 <p>- Spring Data JDBC</p>
