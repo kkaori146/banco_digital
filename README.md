@@ -9,7 +9,13 @@
 <p>- H2 database</p>
 <p>- Postman</p><br>
 
-<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/> <img src="https://www.svgrepo.com/show/373845/h2.svg" height="40" alt="H2 Database"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/> </div><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img src="https://raw.githubusercontent.com/h2database/h2database/master/h2.png" height="40" alt="H2 Database"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
+</div><br>
+
 
 <h2>Dependências do Spring Initializr</h2>
 <p>- Spring Data JDBC</p>
