@@ -15,6 +15,7 @@ public class ClienteService {
 	@Autowired
 	private ClienteRepository clienteRepository;
 	
+	//Cria e salva um novo Cliente com nome e CPF
 	public Cliente salvarCliente(String nome, Long cpf)
 	{
 		Cliente cliente = new Cliente();
@@ -23,14 +24,17 @@ public class ClienteService {
 		return clienteRepository.save(cliente);
 	}
 	
+	//Retorna a lista de todos os Clientes cadastrados
 	public List<Cliente> getClientes(){
 		return clienteRepository.findAll();
 	}
 
+	//Busca um Cliente por ID
 	public Optional<Cliente> getClienteById(Long id) {
 	    return clienteRepository.findById(id);
 	}
 
+	//Remove um Cliente pelo ID
 	public void deletarCliente(Long id) {
 	    clienteRepository.deleteById(id);
 	}
