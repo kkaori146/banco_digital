@@ -10,9 +10,9 @@
 <p>- Postman</p><br>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
-  <img src="[https://raw.githubusercontent.com/h2database/h2database/master/h2.png](https://th.bing.com/th/id/R.d433e5db311d0fe02f52e4db3b5cc743?rik=JMdkqZvUUEF4Cg&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa1%2fH2_logo.png&ehk=UN%2bSuh56YuvETWK0h%2bXaw%2b7DUtz%2bGEoQ%2f6UOzIMymSI%3d&risl=&pid=ImgRaw&r=0)" height="40" alt="H2 Database"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="margin-right: 15px;" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" style="margin-right: 15px;" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/h2database/h2database/master/h2.png" height="40" style="margin-right: 15px;" alt="H2 Database"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman"/>
 </div><br>
 
